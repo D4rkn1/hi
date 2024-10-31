@@ -8,8 +8,8 @@
   "documentationUrl": "https://google.com/",
   "changelogUrl": "https://google.com/",
   "licensesUrl": "https://google.com/",
-  "dependencies": {
- },
+  "dependencies": [
+ ],
  "keywords": [
     "misc",
   ],
