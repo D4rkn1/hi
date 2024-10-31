@@ -1,0 +1,21 @@
+{
+  "name": "com.d4.hello",
+  "version": "1.0.0 ",
+  "displayName": "hi",
+  "description": "hi package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://google.com/",
+  "changelogUrl": "https://google.com/",
+  "licensesUrl": "https://google.com/",
+  "dependencies": {
+ },
+ "keywords": [
+    "misc",
+  ],
+  "author": {
+    "name": "D4rkn1",
+    "email": "no@mail.com",
+    "url": "https://google.com"
+  }
+}
